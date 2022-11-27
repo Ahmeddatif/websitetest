@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<!-- project stage 4 - Ashour Yahia - U20100293 -->
+
+<html>
+<head>
+	<title>Guess the word</title>
+	<link rel="stylesheet" href="project_stage4_AshourYahia_U20100293.css">
+	<script src="project_stage4_AshourYahia_U20100293.js"></script>
+</head>
+<body>
+	<div id="top-bar">
+		<h1>Welcome to the word guessing game!</h1>
+	</div>
+	
+	<div><h2><a href="yahia.html">Click Here to go back</a></h2></div>
+	
+	<div class="fails">
+		<div id="fail1" class="failbox">Y</div>
+		<div id="fail2" class="failbox">Y</div>
+		<div id="fail3" class="failbox">Y</div>
+	</div>
+
+	<div class="center">
+		<input type="text" id="answer">
+	</div>
+	
+	<div class="center">
+		<button type="button" onclick="startGame()">
+			Start
+		</button>
+		<button type="button" onclick="submitAns()">
+			Submit
+		</button>
+		<button type="button" onclick="giveHint()">
+			Hint
+		</button>
+	</div>
+	
+	<div><h2 id="outputBox"></h2></div>
+
+</body>
+</html>
