@@ -1,0 +1,141 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8">
+
+<title>computer science</title>
+
+<link rel="stylesheet" href="../style.css">
+
+</head>
+
+
+
+<body>
+
+ <script>
+
+var i, n
+
+
+
+n = prompt(`Enter username`)
+
+i = prompt(`Enter password`)
+
+</script>
+
+<h1>UOS COMPUTER SCIENCE STUDENTS</h1>
+
+<nav>
+
+<ul>
+
+<li>
+
+<a href="index.html" class="active">Home</a>
+
+</li>
+
+<li>
+
+<a href="abdelaziz.html">Abdelaziz</a>
+
+</li>
+
+<li>
+
+<a href="Ahmed.html">Ahmed</a>
+
+</li>
+
+<li>
+
+<a href="yahia.html">Yahia</a>
+
+</li>
+
+<li>
+
+<a href="ahmed atif.html">Ahmed</a>
+
+</li>
+
+<li>
+
+<a href="muaz.html">Muaz</a>
+
+</li>
+
+</ul>
+
+</nav>
+
+<div class="image">
+
+<img src="../images/home_image.JPG" alt="Home Image">
+
+</div>
+
+<section class="center">
+
+<h2 >About The Group</h2>
+
+<p>
+
+This website is about the students whom are currently doing computer science program at University of Sharjah.<br>
+
+</p>
+
+<ul class="image">
+
+<li>
+
+<img src="../images/01.jpg" alt="image">
+
+</li>
+
+<li>
+
+<img src="../images/02.png" alt="image">
+
+</li>
+
+<li>
+
+<img src="../images/03.jpg" alt="image">
+
+</li>
+
+<li>
+
+<img src="../images/04.jpg" alt="image">
+
+</li>
+
+<li>
+
+<img src="../images/05.jpg" alt="image">
+
+</li>
+
+</ul>
+
+</section>
+
+<footer class="center">
+
+<p>
+
+Contact Us: +971*********
+
+</p>
+
+</footer>
+
+</body>
+
+</html>
