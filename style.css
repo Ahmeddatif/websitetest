@@ -120,3 +120,7 @@ footer {
 	padding: 5px;
 	color: white;
 }
+
+.game-btn:hover {
+	background-color: #324854;
+}
