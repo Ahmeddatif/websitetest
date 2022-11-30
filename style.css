@@ -63,10 +63,9 @@ ul.image {flex-wrap: wrap}
 
 ul.image li {
 	display: flex;
-	gap: .5rem;
-	height: 300px;
-	max-width: 200px;
-	margin: 1rem 0;
+	height: 250px;
+	max-width: 340px;
+	margin: .1rem 0;
 }
 
 .about h1 {
